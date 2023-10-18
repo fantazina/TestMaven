@@ -15,6 +15,6 @@
 
 <p>안녕하슈~~~~</p>
 <p>배고푸당~~~</p>
-<img src="image/fubao.jpg" >
+<img src="image/fubao.jpg" alt="">
 </body>
 </html>
